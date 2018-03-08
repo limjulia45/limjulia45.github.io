@@ -1,8 +1,11 @@
 p {
- font-color: blue;
+ color: pink;
  font-size: 24px;
  font-family: cambria;
 }
 body {
  background-color: yellow;
+}
+h1{
+ color: blue;
 }
